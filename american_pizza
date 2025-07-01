@@ -1,1 +1,2 @@
-console.log("othentic classic sauce")
+let menuPizza = ["Pepperoni", "Margherita", "Hawaiian", "BBQ Chicken", "Veggie"];
+console.log(menuPizza)
